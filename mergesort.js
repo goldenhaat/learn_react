@@ -53,6 +53,5 @@ function sort(data){
 }
 
 
-let b=[6,3,5,1,9,1];
-
-console.log(sort(b))
+//let b=[6,3,5,1,9,1];
+//console.log(sort(b))
